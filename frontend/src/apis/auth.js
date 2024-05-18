@@ -1,5 +1,5 @@
 import axios from "axios";
-const backendUrl = "https://www-amitkewot-gmail-com-cuvette-final.onrender.com/api/v1";
+const backendUrl = "https://trello-todo-app.onrender.com/api/v1";
 // const backendUrl = "http://localhost:3000/api/v1";
 
 
